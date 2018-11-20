@@ -133,7 +133,7 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Dialog" size="16" style="1"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="RSA para frase de at&#xe9; 117 bytes:"/>
+        <Property name="text" type="java.lang.String" value="RSA para frase com at&#xe9; 117 palavras:"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel2">

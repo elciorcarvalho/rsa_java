@@ -64,7 +64,7 @@ public class RSAUI extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Dialog", 1, 16)); // NOI18N
-        jLabel1.setText("RSA para frase de até 117 bytes:");
+        jLabel1.setText("RSA para frase com até 117 palavras:");
 
         jLabel2.setText("Chave Pública:");
 
